@@ -48,13 +48,12 @@
 ## Use To Code
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&labelColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&labelColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&labelColor=black&logo=sql&logoColor=CC2927)
 
 <br/>
 
@@ -66,4 +65,4 @@
 <hr/>
 <br/>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasuHirapara&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasuHirapara&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
