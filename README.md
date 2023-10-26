@@ -35,8 +35,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Loves to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Loves breaking algorithms<br/><br/>
  📧 &emsp; Reach me anytime: prasuhirpara@gmail.com<br/><br/>
 
 </p>
@@ -46,11 +46,10 @@
 <br/>
 
 ## Use To Code
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=codeforces)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=codeforces)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=codeforces)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&labelColor=black&logo=sql)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&labelColor=black&logo=mysql)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
@@ -65,4 +64,4 @@
 <hr/>
 <br/>
 
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasuHirapara&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasuHirapara&custom_title=Prasu%Hirapara's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
