@@ -13,7 +13,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Prasu Hirpara">「 Google Me 」</a>
     <br>
-    「 I am a full stack Flutter developer from <b>India</b> 」
+    「 I am a full enthusiast developer from <b>India</b> 」
     <br>
     <br>
   </samp>
