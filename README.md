@@ -46,13 +46,16 @@
 <br/>
 
 ## Use To Code
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&labelColor=black&logo=mysql)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)
+
+
 
 <br/>
 
