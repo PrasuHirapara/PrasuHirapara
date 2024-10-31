@@ -1,7 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=PrasuHirapara&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am Prasu Hirpara
@@ -42,8 +38,9 @@
 </p>
 
 <br/>
-<br/>
-<br/>
+
+[![An image of @prasuhirapara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasuhirapara)](https://holopin.io/@prasuhirapara)
+
 
 ## Use To Code
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
