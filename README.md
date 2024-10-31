@@ -1,65 +1,45 @@
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am Prasu Hirpara
-        </samp>
-</h3>
+<div align="center">
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Prasu Hirpara">「 Google Me 」</a>
-    <br>
-    「 I am a full enthusiast developer from <b>India</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+# 👋 Hi there, I'm Prasu Hirpara  
 
-<p align="center">
- <a href="https://www.linkedin.com/in/prasu-hirpara-130575247/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/prasu_hirpara/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"  />
- </a> 
-</p>
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasu-hirpara-130575247/)  
+[![Holopin](https://holopin.me/prasuhirapara)](https://holopin.io/@prasuhirapara)  
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Loves to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Loves breaking algorithms<br/><br/>
- 📧 &emsp; Reach me anytime: prasuhirpara@gmail.com<br/><br/>
+![Visitor Count](https://profile-counter.glitch.me/PrasuHirapara/count.svg)
 
-</p>
+## 🌟 About Me  
+I am a passionate developer with expertise in full-stack development. I enjoy solving complex problems and working on diverse projects that challenge my skills. Currently, I am focused on honing my skills in Java, Spring, and React.
 
-<br/>
+<br>
 
-[![An image of @prasuhirapara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prasuhirapara)](https://holopin.io/@prasuhirapara)
+## 🛠️ Technologies & Tools  
 
+### Languages & Frameworks
+<div align="center">
 
-## Use To Code
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 
+</div>
 
+<br>
 
-<br/>
+## 📝 Repositories  
+[Explore My Repositories](https://github.com/PrasuHirapara?tab=repositories)  
 
-<p align="left">
-  <a href="https://github.com/PrasuHirapara?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<br>
 
-<br/>
-<hr/>
-<br/>
+## 📈 GitHub Stats  
+![Prasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasuHirapara&show_icons=true&theme=radical)  
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=PrasuHirapara&theme=dark)  
 
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasuHirapara&custom_title=Prasu%Hirapara's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br>
+
+Thanks for visiting my profile! Feel free to reach out for collaborations or inquiries.
+
+</div>
